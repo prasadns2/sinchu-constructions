@@ -1,0 +1,18 @@
+.why-us {
+  background-color: #333333;
+  color: #fff;
+  text-align: center;
+  padding: 30px 10%;
+
+  &__head {
+    font-size: 35px;
+    line-height: 40px;
+    margin-bottom: 15px;
+  }
+  &__sub-head {
+    color: #debf10;
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 30px;
+  }
+}

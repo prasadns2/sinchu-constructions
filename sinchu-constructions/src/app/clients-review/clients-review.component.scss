@@ -1,0 +1,15 @@
+.clients-review {
+  background-image: url("../../assets/images/house_sample.jpg");
+  background-color: #cccccc;
+  background-size: 100% 350px;
+  min-height: 350px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  &--messages {
+    width: 50%;
+    text-align: center;
+    color: #fff;
+  }
+}
